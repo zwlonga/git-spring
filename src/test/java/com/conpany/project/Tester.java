@@ -18,7 +18,7 @@ import org.springframework.transaction.annotation.Transactional;
 public abstract class Tester {
         public static void main(String[] args) {
         	
-        	System.out.println("git-testv01-v02-00e");
+        	System.out.println("git-testv01-v02-00etest");
         }
 
 }
